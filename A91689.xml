@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the armie concerning the city of London, after their ending of the work at Colchester, and their declaration concerning the same. Also, two great fights at Colchester on Munday morning last; the first, between Generall Lucas with a party of horse and firelocks, against the Parliaments forces, upon their sallying out upon their guards: with the particulars of the fight, their advancing to the works, and playing their ordnance upon the Lord Generals Horse, and the killed and taken. The second, between the Colchesterian Shavers, and the Kentish-men, against the Suffolk forces, and the Lord Generals, upon their sallying out at Buttolphs Gate, and East Gate; with the numbers killed and taken, and the resolution of the Shavers concerning the Army.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91689</idno><idno type="EEBO-CITATION">99864530</idno>
+  <idno type="VID">162123</idno>
+  <idno type="EEBO-PROQUEST">2248530263</idno>
+  
+            <idno type="STC">Wing R1144</idno>
+            <idno type="STC">Thomason E459_18</idno>
+            <idno type="STC">ESTC R205089</idno>
+            <idno type="PROQUEST">99864530</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864530e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162123)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the armie concerning the city of London, after their ending of the work at Colchester, and their declaration concerning the same. Also, two great fights at Colchester on Munday morning last; the first, between Generall Lucas with a party of horse and firelocks, against the Parliaments forces, upon their sallying out upon their guards: with the particulars of the fight, their advancing to the works, and playing their ordnance upon the Lord Generals Horse, and the killed and taken. The second, between the Colchesterian Shavers, and the Kentish-men, against the Suffolk forces, and the Lord Generals, upon their sallying out at Buttolphs Gate, and East Gate; with the numbers killed and taken, and the resolution of the Shavers concerning the Army.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: The Kings Maiesties demands and proposals to the Parliament of England. Signed: Charles R.</note>
+                  <note>Annotation on Thomason copy: "Aug. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162123:1"/>
+            <p>THE RESOLUTION OF THE ARMIE CONCERNING The City of <hi>LONDON,</hi> after their ending of the Work at COLCHESTER, and their DECLARATION concerning the same.</p>
+            <p>ALSO, Two great Fights at Colchester on Munday morning last; the first, between Generall LUCAS with a Party of Horse and Firelocks, against the Parliaments Forces, upon their sallying out upon their Guards: with the particu<g ref="char:EOLhyphen"/>lars of the fight, their advancing to the works, and playing their Ordnance upon the Lord Generals Horse, and the number killed and taken.</p>
+            <p>The second, between the Colchesterian Shavers, and the Ken<g ref="char:EOLhyphen"/>tish-men, against the Suffolk Forces, and the Lord Gene<g ref="char:EOLhyphen"/>rals, upon their sallying out at Buttolphs Gate, and East Ga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; with the numbers killed and taken, and the resolution of the Shavers concer<g ref="char:EOLhyphen"/>ning the ARMY.</p>
+            <p>
+               <add>Aug: 17</add> LONDON: Printed in the Yeer, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162123:2"/>
+            <pb n="1" facs="tcp:162123:2"/>
+            <head>JOY FULL NEVVES FROM COLCHESTER Communicating The Resolution and Proceedings of the <hi>Colchesterian Sha<g ref="char:EOLhyphen"/>vers,</hi> and their late fight with the Suffolk forces, up<g ref="char:EOLhyphen"/>on their sallying out at the East Gate.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His morning the <hi>Colchesterian Shavers</hi> sallied out at the East Gate upon the Suffolk forces, who had intrenched themselves within musquet shot of the Walls, and made their approach neer the Redout; but failing of their expec<g ref="char:EOLhyphen"/>tation (through a timely discovery) wheeled about, and fell upon a smal Guard neer the Eastern Sconce, which oc<g ref="char:EOLhyphen"/>casioned
+<pb n="2" facs="tcp:162123:3"/> some time of dispute, but finding themselves too weak to maintain the encounter retreated in a very disor<g ref="char:EOLhyphen"/>derly manner, le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving many Armes and long Sithes beh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd them. In which action, divers were wounded on both sides, besides fifteen of the enemy left dead on the place, and seven of ours.</p>
+            <p>At <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he s<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e time another party sallyed out at Buttolphs Gate, who fell upon our Out-guards with great fury, doing some execution, and took about 17. prisoners, but by the gallantry of Col. <hi>Barkstead</hi> and a party of foot, they were repulsed, their prisoners released and Col. <hi>Lunsford</hi> and his p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rty totally routed, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pursue<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the very Gate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Sal<g ref="char:EOLhyphen"/>ly ports, leaving divers of his m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in a most <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eplor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble and gasping condition.</p>
+            <p>Most of the Salliers which engaged in this action were Kentish-men, who fought with abundance of courage and resolution, and maintained t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ground to push-a-pike go<g ref="char:EOLhyphen"/>ring and mangling some of our horse, vowing revenge upon us, for our late conquest in <hi>Kent,</hi> but in this action &amp; retreat they felt one hand more heavier then both, above twenty of them being slain in this short dispute and conflict: since which time, they have declared, that they will fight it out to the last man, and maintain their Workes with the last drop of bloud, the shavers and others in the town, having also vowed the like resolution, protesting to sacrifice their lives with them, against the Army, and all others that shall ad<g ref="char:EOLhyphen"/>here to them.</p>
+            <p>They have sunk severall places under the Walls, and neer the Gates, who by countermining have blowd up one of our Mines, which hath somewhat retarded t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e work of storming, yet we have four more almost finished and ready to spring, and the better to faciliate the work of storming, are raising of Batteries, and bringing our Trenches neerer
+<pb n="3" facs="tcp:162123:3"/> the works, which we have accomplished with little losse: the Besieged calls over the walls to our men, saying, That they desire to exchange some tokens within the town, and to welcome them over the walls with the messengers of <hi>Mars;</hi> and indeed, we are in a readinesse to satisfie their longing desires, the Councell of war having resolved that approaches be made round the town, in order to a storme: And thereupon his Excellency with a Generall Councell o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> war, consisting of all the Officers of Sussex and Essex, aswel as those of the Army, debate high in relation to Colchester, endeavouring to make short work of a long siege, the rea<g ref="char:EOLhyphen"/>son and inducements being these, 1. The Enemy having com<g ref="char:EOLunhyphen"/>for<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 20. dayes, 2. Their souldiers well sati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied with horse<g ref="char:EOLunhyphen"/>flesh. 3. No want of fresh water, besides much wine an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fruit. 4. The City design much ripened, and may be speedily put in execution. 5. The successe in the North uncertain, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Princes l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding may prove prejudiciall, all which ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> motives to cause a storm.</p>
+            <p>They begin to be weary of eating horse-flesh, and are now abridged of their allowance of bread; so that we doubt not but to become masters of the town very suddenly by star<g ref="char:EOLhyphen"/>ving them out, rather then to hazard our Army upon it by storm.</p>
+            <p>For we are in a defensive posture to receive any reliefe that shall come either by Sea or Land to rescue or relieve them, and can draw off two thousand old Souldiers to fight them, or if the relief be too strong, upon few hours war<g ref="char:EOLhyphen"/>ning storm the Town and carry it. We know their conditi<g ref="char:EOLhyphen"/>on within, and every day adds to their weaknesse, neer 300. are lately run from them, and every day as they get oppor<g ref="char:EOLhyphen"/>tunity they come out. The middle mill which wee fired a week since is spoyld by our Canon that it cannot be ser<g ref="char:EOLhyphen"/>viceable.</p>
+            <closer>
+               <dateline>Colchester <date>Aug. 14. 9. at night.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_demands">
+            <pb n="4" facs="tcp:162123:4"/>
+            <head>The Kings Maiesties Demands and Proposals to the <hi>PARLIAMENT</hi> of <hi>England,</hi> concerning all his liege People throughout his Realmes and Dominions.</head>
+            <list>
+               <item>I. THat you will recall all such Votes and Orders, by which peo<g ref="char:EOLhyphen"/>ple are frighted from comming writing, or speaking freely to me.</item>
+               <item>II. Next, that such men of all professions, whom I shall send for, as of necessary use to me in this Tre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty, may be admitted to wait upon me; In a word, that I may be in the state of freedom I was in when I was last at <hi>Hampton-court.</hi> And indeed lesse cannot <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n any reaso<g ref="char:EOLhyphen"/>nable measure make good those offers which you have made me by your Votes: for how can I treat with honour so long as people are terrifi'd with Votes &amp; Orders against comming to speak with me: and am I honourably treated so long as there is none about me (except a Barber who came now with the Commis.) that ever I named to wait upon me, or with freedom (until I may call such un<g ref="char:EOLhyphen"/>to me of whose services I shall have use in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o great and difficult a Work) and for safety (I speak not of my person, having no appre<g ref="char:EOLhyphen"/>hension that way) how can I judge to make a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>afe and well groun<g ref="char:EOLhyphen"/>ded peace, untill I may kn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w without disguise the true present state of all my Dominions, and particularly of all those whose in<g ref="char:EOLhyphen"/>terests are necessarily concernd in the peace of these Kingdomes? which leads me naturally to the last necessarie demand I shal make for the bringing of this Treaty to a happy end, which is,</item>
+               <item>III. That you alone, or you and I join<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly do invite the Scots to send some persons authorised by them to treat upon such propositions
+<pb n="5" facs="tcp:162123:4"/> as they shall make: for certainly the publique and necessary inte<g ref="char:EOLhyphen"/>resse they have in this great sett<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ement, is so cleerly plain to all the world, that I believe no body will deny the necessity of their con<g ref="char:EOLhyphen"/>currence in this Treaty, in order to a dutable peace. Wherefore I wil only say, that as I am King of both Nations, so will I yeeld to none in either Kingdom for being truly and zealously affected for the good and honour of both, my resolution being never to be par<g ref="char:EOLhyphen"/>tial for either to the prejudice of the other. Now as to the place, be cause I conceive i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be rather a cir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umstantial then reall part of this Treaty, I shall not much insist upon it, I name <hi>Newport</hi> in this Isle, yet the fervent zeal I have that a speedy end be put to these di<g ref="char:EOLhyphen"/>stractions doth force me earnestly to desire you to consider what a great losse of time i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will be to treat so far from the Body of my two Houses, when every small debate must be transmitted to <hi>West<g ref="char:EOLhyphen"/>minster</hi> before it be concluded: And really I think, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough to some it may seem a para<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ox, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peoples minds will be much more apt to settle, seeing me treat in or neer <hi>London,</hi> then in this Isle, because so long as I am <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere, it will never be believed by many that I am really so f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee, as b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore this Treaty begin I expect to be: And so I leave and recommend this point to your serious consideration: And thus I have no only fully accepted of the Treaty, which you have proposed <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o me by your Votes of the 3. of this moneth, but al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o gi<g ref="char:EOLhyphen"/>ven it all the furtherance that lies in m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, by demanding the necessa<g ref="char:EOLhyphen"/>ry means for the effectual performance thereof: All which are so necessarily emp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyed by though no particularly mentioned in your Votes as I can no ways doubt of your ready compliance with me herein: I have now no more to say, but to conjure you by all that is dear to Christians honest men, or good Patriots: that ye wil make all the exped<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion possi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o begin this hapy work by hasting down your Commis. fully authorized &amp; wel instructed, and by inabling me as I have shewed you, to treat; praying <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of peace so to blesse our endeavours, that all my Dominions may speedily enjoy a safe and well-grounded peace.</item>
+            </list>
+            <closer>
+               <signed>CH<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>RLES R.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:162123:5"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my last of the 9. instant, here hath hapned little a<g ref="char:EOLhyphen"/>ction till Sunday and Munday last; at which time they made severall Sallies both upon the Suffolk Forces and the Lord Generals. Gen. <hi>Lucas</hi> and the L. of <hi>Loughborow,</hi> with a party of Horse and Firelocks made an attempt against the Guards neer the Almshouses, our Horse Guard charged them, and made an intervale through their whole Body, who upon their wheeling about, five piece of Ordnance were fi<g ref="char:EOLhyphen"/>red from the walls upon them, which killed two or three; then both parties bodied, and after a gallant charge by both Parties, the Colchesterians retreat, our men pursues, and in the pursuit killed 7. and took 9. prisoners, with the losse of 5 men.</p>
+            <p>Sir, As for the vilisying speeches eccho'd upon down your streets against the Army, saying. That so soon as they have done with Colchester, their next place will be <hi>London,</hi> I can assure you they have no such resolution, but are resolved to expedite Northward, or to any other place where necessity shal require, and declares, that they have no thoughts of in<g ref="char:EOLhyphen"/>jury or prejudice against the city of <hi>London,</hi> but should be willing to sacrifice their lives and fortunes for the defence and preservation thereof.</p>
+            <closer>
+               <dateline>Colchester, <date>Aug. 15.4. in the morning.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
